@@ -1,0 +1,27 @@
+NAME: Ryan Lam
+EMAIL: ryan.lam53@gmail.com
+ID: 705124474
+
+Tarball Contents:
+
+lab1b-server.c: Source code for lab1b-server program.
+
+lab1b-client.c: Source code for lab1b-client program.
+
+README: This file.
+
+Makefile: Contains targets for compiling the client and server into executables separately and together, 
+as well as targets for removing created files and creating the tarball.
+
+
+Outside Sources:
+
+https://www.zlib.net/zlib_how.html
+
+https://www.zlib.net/manual.html#Usage
+
+http://www.cs.rpi.edu/~moorthy/Courses/os98/Pgms/socket.html
+
+http://www.cs.rpi.edu/~moorthy/Courses/os98/Pgms/server.c
+
+http://www.cs.rpi.edu/~moorthy/Courses/os98/Pgms/client.c
